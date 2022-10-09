@@ -1,0 +1,10 @@
+
+.main {
+    background:gray;
+    color:white;
+    height: 3rem;
+    font-size: 1em;
+    display: flex;
+    align-items: center;
+    justify-content: end;
+}
